@@ -1,0 +1,4 @@
+env/
+coffee-roast-dataset/
+.git/index.lock
+model_kopi_cnn.h5
